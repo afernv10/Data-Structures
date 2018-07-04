@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/tmp/edi-api-2018.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/edi-api-2018/export-api.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/edi-api-2018/export-api.jardesc"/>
+        <javaElement handleIdentifier="=edi-api-2018/src"/>
+        <file path="/edi-api-2018/.gitignore"/>
+        <file path="/edi-api-2018/.project"/>
+        <file path="/edi-api-2018/readme.txt"/>
+        <file path="/edi-api-2018/.classpath"/>
+    </selectedElements>
+</jardesc>
